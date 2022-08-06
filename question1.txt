@@ -1,0 +1,15 @@
+   Benifits of migrating to typescript
+   => The most important difference between TypeScript and JavaScript is that they are two separate programming languages, though TypeScript is heavily based on JavaScript. In fact, TypeScript is a superset of JavaScript, meaning all valid JavaScript code is also valid TypeScript code.
+   the main advantage of typescript over JavaScript 
+   1. Strict typing
+   2. Type annotations
+   3.interfaces
+   some disadvantage of typescript 
+   1. Overly complicated typing system
+   2.  False sense of security . TypeScript performs type checks only during compilation. Afterwards, we’re dealing with pure JavaScript that doesn’t do that. This means we may still encounter some bugs that the compiler didn’t find, though admittedly there’s going to be far fewer of them than if we hadn’t used TypeScript
+
+   My Thaughts about typescript :
+   “To me, the main advantage of TypeScript are the autosuggestions. At the moment, I’m coding in JavaScript and this is what I miss the most about TypeScript. Having to jump files back and forth just to see the type gets tiring quickly.
+   I can tell you from personal experience that whenever I write something new in JavaScript, I usually need to run the code first in order to see exactly what a particular function does and returns. With TypeScript, I can rely on the type definition to tell me everything I need to know.
+   but TypeScript allows you to introduce new developers to your project faster. Explicitly defined data structures and type annotations make it incomparably easier to understand the decisions made by the engineers originally writing your code its a great benifit i think.
+   
